@@ -1,0 +1,699 @@
+date,category,description,amount,payment_method,month,month_name,day_of_week,week,quarter,quarter_short
+2024-01-01,Health,Gym Membership,899.83,Credit Card,1,Jan,Monday,1,2024Q1,Q1
+2024-01-01,Food & Dining,Restaurant Bill,131.99,Cash,1,Jan,Monday,1,2024Q1,Q1
+2024-01-01,Rent & Housing,Maintenance Charges,1445.34,UPI,1,Jan,Monday,1,2024Q1,Q1
+2024-01-02,Shopping,Flipkart Purchase,577.29,UPI,1,Jan,Tuesday,1,2024Q1,Q1
+2024-01-02,Rent & Housing,Electricity Bill,113.43,UPI,1,Jan,Tuesday,1,2024Q1,Q1
+2024-01-03,Entertainment,Movie Ticket,132.67,Net Banking,1,Jan,Wednesday,1,2024Q1,Q1
+2024-01-03,Food & Dining,Restaurant Bill,278.88,Net Banking,1,Jan,Wednesday,1,2024Q1,Q1
+2024-01-03,Transport,Bus Pass,224.41,UPI,1,Jan,Wednesday,1,2024Q1,Q1
+2024-01-04,Food & Dining,Zomato Order,582.13,Debit Card,1,Jan,Thursday,1,2024Q1,Q1
+2024-01-04,Rent & Housing,Monthly Rent,538.7,UPI,1,Jan,Thursday,1,2024Q1,Q1
+2024-01-04,Shopping,Accessories,1313.67,UPI,1,Jan,Thursday,1,2024Q1,Q1
+2024-01-05,Transport,Auto Rickshaw,242.01,UPI,1,Jan,Friday,1,2024Q1,Q1
+2024-01-05,Transport,Auto Rickshaw,211.66,UPI,1,Jan,Friday,1,2024Q1,Q1
+2024-01-06,Shopping,Flipkart Purchase,1078.6,Net Banking,1,Jan,Saturday,1,2024Q1,Q1
+2024-01-06,Shopping,Accessories,256.28,UPI,1,Jan,Saturday,1,2024Q1,Q1
+2024-01-07,Food & Dining,Grocery Store,385.11,Net Banking,1,Jan,Sunday,1,2024Q1,Q1
+2024-01-08,Food & Dining,Grocery Store,118.77,Net Banking,1,Jan,Monday,2,2024Q1,Q1
+2024-01-09,Food & Dining,Restaurant Bill,183.4,Credit Card,1,Jan,Tuesday,2,2024Q1,Q1
+2024-01-10,Shopping,Electronics,2326.81,Credit Card,1,Jan,Wednesday,2,2024Q1,Q1
+2024-01-10,Education,Online Course Fee,1010.29,UPI,1,Jan,Wednesday,2,2024Q1,Q1
+2024-01-10,Food & Dining,Grocery Store,459.4,Credit Card,1,Jan,Wednesday,2,2024Q1,Q1
+2024-01-11,Entertainment,Concert Ticket,183.72,Credit Card,1,Jan,Thursday,2,2024Q1,Q1
+2024-01-11,Shopping,Flipkart Purchase,704.56,UPI,1,Jan,Thursday,2,2024Q1,Q1
+2024-01-11,Food & Dining,Swiggy,93.22,UPI,1,Jan,Thursday,2,2024Q1,Q1
+2024-01-12,Education,Online Course Fee,608.66,Cash,1,Jan,Friday,2,2024Q1,Q1
+2024-01-12,Education,Coaching Class,985.74,Cash,1,Jan,Friday,2,2024Q1,Q1
+2024-01-12,Food & Dining,Grocery Store,120.03,UPI,1,Jan,Friday,2,2024Q1,Q1
+2024-01-13,Education,Books,1250.56,Credit Card,1,Jan,Saturday,2,2024Q1,Q1
+2024-01-13,Education,Stationery,483.97,Cash,1,Jan,Saturday,2,2024Q1,Q1
+2024-01-14,Transport,Auto Rickshaw,69.07,UPI,1,Jan,Sunday,2,2024Q1,Q1
+2024-01-14,Education,Online Course Fee,496.32,Cash,1,Jan,Sunday,2,2024Q1,Q1
+2024-01-15,Education,Coaching Class,414.05,Cash,1,Jan,Monday,3,2024Q1,Q1
+2024-01-16,Food & Dining,Restaurant Bill,220.09,UPI,1,Jan,Tuesday,3,2024Q1,Q1
+2024-01-16,Food & Dining,Zomato Order,289.99,UPI,1,Jan,Tuesday,3,2024Q1,Q1
+2024-01-17,Utilities,Internet Bill,442.08,Credit Card,1,Jan,Wednesday,3,2024Q1,Q1
+2024-01-17,Food & Dining,Zomato Order,218.73,Net Banking,1,Jan,Wednesday,3,2024Q1,Q1
+2024-01-18,Food & Dining,Zomato Order,409.86,Credit Card,1,Jan,Thursday,3,2024Q1,Q1
+2024-01-18,Transport,Auto Rickshaw,345.41,UPI,1,Jan,Thursday,3,2024Q1,Q1
+2024-01-19,Shopping,Clothes,719.08,Debit Card,1,Jan,Friday,3,2024Q1,Q1
+2024-01-19,Transport,Auto Rickshaw,232.73,Cash,1,Jan,Friday,3,2024Q1,Q1
+2024-01-19,Food & Dining,Zomato Order,158.37,Cash,1,Jan,Friday,3,2024Q1,Q1
+2024-01-20,Education,Stationery,1080.83,UPI,1,Jan,Saturday,3,2024Q1,Q1
+2024-01-21,Health,Lab Test,802.59,UPI,1,Jan,Sunday,3,2024Q1,Q1
+2024-01-21,Shopping,Flipkart Purchase,2118.62,Credit Card,1,Jan,Sunday,3,2024Q1,Q1
+2024-01-21,Shopping,Flipkart Purchase,2323.03,Debit Card,1,Jan,Sunday,3,2024Q1,Q1
+2024-01-22,Food & Dining,Swiggy,590.73,Cash,1,Jan,Monday,4,2024Q1,Q1
+2024-01-22,Food & Dining,Zomato Order,128.41,Debit Card,1,Jan,Monday,4,2024Q1,Q1
+2024-01-22,Education,Coaching Class,445.32,UPI,1,Jan,Monday,4,2024Q1,Q1
+2024-01-23,Shopping,Clothes,2162.36,Cash,1,Jan,Tuesday,4,2024Q1,Q1
+2024-01-23,Education,Stationery,309.38,UPI,1,Jan,Tuesday,4,2024Q1,Q1
+2024-01-23,Education,Stationery,954.89,UPI,1,Jan,Tuesday,4,2024Q1,Q1
+2024-01-24,Shopping,Electronics,817.21,UPI,1,Jan,Wednesday,4,2024Q1,Q1
+2024-01-25,Shopping,Electronics,677.03,Credit Card,1,Jan,Thursday,4,2024Q1,Q1
+2024-01-25,Food & Dining,Grocery Store,172.99,UPI,1,Jan,Thursday,4,2024Q1,Q1
+2024-01-26,Shopping,Amazon Order,1424.97,Cash,1,Jan,Friday,4,2024Q1,Q1
+2024-01-26,Entertainment,Gaming,440.72,Debit Card,1,Jan,Friday,4,2024Q1,Q1
+2024-01-26,Transport,Bus Pass,190.84,Credit Card,1,Jan,Friday,4,2024Q1,Q1
+2024-01-27,Food & Dining,Grocery Store,339.58,Credit Card,1,Jan,Saturday,4,2024Q1,Q1
+2024-01-28,Food & Dining,Tea & Snacks,569.04,Net Banking,1,Jan,Sunday,4,2024Q1,Q1
+2024-01-29,Education,Stationery,220.09,Net Banking,1,Jan,Monday,5,2024Q1,Q1
+2024-01-30,Transport,Petrol Fill,343.71,UPI,1,Jan,Tuesday,5,2024Q1,Q1
+2024-01-31,Transport,Ola Cab,131.42,UPI,1,Jan,Wednesday,5,2024Q1,Q1
+2024-02-01,Transport,Auto Rickshaw,327.61,UPI,2,Feb,Thursday,5,2024Q1,Q1
+2024-02-02,Entertainment,Movie Ticket,277.91,UPI,2,Feb,Friday,5,2024Q1,Q1
+2024-02-02,Rent & Housing,Maintenance Charges,1424.33,Credit Card,2,Feb,Friday,5,2024Q1,Q1
+2024-02-03,Rent & Housing,Water Bill,897.58,UPI,2,Feb,Saturday,5,2024Q1,Q1
+2024-02-03,Entertainment,Spotify,457.94,Cash,2,Feb,Saturday,5,2024Q1,Q1
+2024-02-03,Health,Medicine Purchase,159.45,UPI,2,Feb,Saturday,5,2024Q1,Q1
+2024-02-04,Education,Coaching Class,235.9,Credit Card,2,Feb,Sunday,5,2024Q1,Q1
+2024-02-04,Transport,Petrol Fill,178.99,Cash,2,Feb,Sunday,5,2024Q1,Q1
+2024-02-05,Health,Doctor Consultation,114.16,UPI,2,Feb,Monday,6,2024Q1,Q1
+2024-02-06,Rent & Housing,Water Bill,341.41,Cash,2,Feb,Tuesday,6,2024Q1,Q1
+2024-02-06,Shopping,Accessories,2418.34,Cash,2,Feb,Tuesday,6,2024Q1,Q1
+2024-02-07,Food & Dining,Tea & Snacks,293.9,Credit Card,2,Feb,Wednesday,6,2024Q1,Q1
+2024-02-07,Food & Dining,Grocery Store,584.16,Credit Card,2,Feb,Wednesday,6,2024Q1,Q1
+2024-02-08,Health,Gym Membership,565.54,Credit Card,2,Feb,Thursday,6,2024Q1,Q1
+2024-02-08,Food & Dining,Swiggy,580.58,Debit Card,2,Feb,Thursday,6,2024Q1,Q1
+2024-02-08,Shopping,Electronics,286.75,Debit Card,2,Feb,Thursday,6,2024Q1,Q1
+2024-02-09,Food & Dining,Zomato Order,423.3,UPI,2,Feb,Friday,6,2024Q1,Q1
+2024-02-09,Utilities,DTH Recharge,421.7,Cash,2,Feb,Friday,6,2024Q1,Q1
+2024-02-09,Shopping,Clothes,732.17,UPI,2,Feb,Friday,6,2024Q1,Q1
+2024-02-10,Food & Dining,Grocery Store,140.36,UPI,2,Feb,Saturday,6,2024Q1,Q1
+2024-02-11,Rent & Housing,Electricity Bill,1436.95,Cash,2,Feb,Sunday,6,2024Q1,Q1
+2024-02-12,Shopping,Electronics,1262.66,UPI,2,Feb,Monday,7,2024Q1,Q1
+2024-02-12,Transport,Auto Rickshaw,227.07,Credit Card,2,Feb,Monday,7,2024Q1,Q1
+2024-02-13,Food & Dining,Swiggy,405.45,Cash,2,Feb,Tuesday,7,2024Q1,Q1
+2024-02-13,Education,Online Course Fee,1089.15,Credit Card,2,Feb,Tuesday,7,2024Q1,Q1
+2024-02-14,Utilities,Gas Bill,384.6,Net Banking,2,Feb,Wednesday,7,2024Q1,Q1
+2024-02-14,Entertainment,Movie Ticket,501.36,UPI,2,Feb,Wednesday,7,2024Q1,Q1
+2024-02-14,Health,Gym Membership,1134.44,UPI,2,Feb,Wednesday,7,2024Q1,Q1
+2024-02-15,Entertainment,Concert Ticket,237.05,UPI,2,Feb,Thursday,7,2024Q1,Q1
+2024-02-16,Rent & Housing,Monthly Rent,279.44,Credit Card,2,Feb,Friday,7,2024Q1,Q1
+2024-02-16,Food & Dining,Grocery Store,519.34,UPI,2,Feb,Friday,7,2024Q1,Q1
+2024-02-16,Health,Medicine Purchase,635.56,Credit Card,2,Feb,Friday,7,2024Q1,Q1
+2024-02-17,Entertainment,Gaming,127.43,Cash,2,Feb,Saturday,7,2024Q1,Q1
+2024-02-17,Utilities,Gas Bill,172.27,Credit Card,2,Feb,Saturday,7,2024Q1,Q1
+2024-02-18,Utilities,Gas Bill,146.4,UPI,2,Feb,Sunday,7,2024Q1,Q1
+2024-02-18,Entertainment,Gaming,267.02,Credit Card,2,Feb,Sunday,7,2024Q1,Q1
+2024-02-18,Shopping,Clothes,392.34,Debit Card,2,Feb,Sunday,7,2024Q1,Q1
+2024-02-19,Transport,Ola Cab,132.42,Debit Card,2,Feb,Monday,8,2024Q1,Q1
+2024-02-19,Transport,Metro Card,336.73,Debit Card,2,Feb,Monday,8,2024Q1,Q1
+2024-02-20,Rent & Housing,Electricity Bill,1385.86,Cash,2,Feb,Tuesday,8,2024Q1,Q1
+2024-02-21,Entertainment,Gaming,164.19,Credit Card,2,Feb,Wednesday,8,2024Q1,Q1
+2024-02-21,Transport,Bus Pass,270.76,Credit Card,2,Feb,Wednesday,8,2024Q1,Q1
+2024-02-22,Food & Dining,Grocery Store,337.1,UPI,2,Feb,Thursday,8,2024Q1,Q1
+2024-02-23,Food & Dining,Restaurant Bill,541.61,UPI,2,Feb,Friday,8,2024Q1,Q1
+2024-02-23,Food & Dining,Tea & Snacks,437.78,Debit Card,2,Feb,Friday,8,2024Q1,Q1
+2024-02-23,Education,Books,309.34,Credit Card,2,Feb,Friday,8,2024Q1,Q1
+2024-02-24,Transport,Petrol Fill,256.0,UPI,2,Feb,Saturday,8,2024Q1,Q1
+2024-02-24,Food & Dining,Restaurant Bill,382.28,Debit Card,2,Feb,Saturday,8,2024Q1,Q1
+2024-02-25,Health,Gym Membership,1096.62,Credit Card,2,Feb,Sunday,8,2024Q1,Q1
+2024-02-25,Rent & Housing,Maintenance Charges,258.65,Credit Card,2,Feb,Sunday,8,2024Q1,Q1
+2024-02-26,Shopping,Flipkart Purchase,2279.93,UPI,2,Feb,Monday,9,2024Q1,Q1
+2024-02-26,Transport,Bus Pass,159.66,Credit Card,2,Feb,Monday,9,2024Q1,Q1
+2024-02-27,Health,Gym Membership,915.57,Credit Card,2,Feb,Tuesday,9,2024Q1,Q1
+2024-02-28,Transport,Metro Card,121.43,Debit Card,2,Feb,Wednesday,9,2024Q1,Q1
+2024-02-28,Food & Dining,Swiggy,86.32,Net Banking,2,Feb,Wednesday,9,2024Q1,Q1
+2024-02-29,Rent & Housing,Maintenance Charges,1102.63,Net Banking,2,Feb,Thursday,9,2024Q1,Q1
+2024-03-01,Food & Dining,Restaurant Bill,584.04,Cash,3,Mar,Friday,9,2024Q1,Q1
+2024-03-02,Food & Dining,Zomato Order,406.33,Credit Card,3,Mar,Saturday,9,2024Q1,Q1
+2024-03-03,Food & Dining,Tea & Snacks,578.53,UPI,3,Mar,Sunday,9,2024Q1,Q1
+2024-03-03,Transport,Metro Card,137.41,UPI,3,Mar,Sunday,9,2024Q1,Q1
+2024-03-03,Entertainment,Movie Ticket,260.58,UPI,3,Mar,Sunday,9,2024Q1,Q1
+2024-03-04,Utilities,Gas Bill,315.69,UPI,3,Mar,Monday,10,2024Q1,Q1
+2024-03-05,Rent & Housing,Maintenance Charges,1245.29,UPI,3,Mar,Tuesday,10,2024Q1,Q1
+2024-03-06,Education,Online Course Fee,1422.69,Cash,3,Mar,Wednesday,10,2024Q1,Q1
+2024-03-07,Entertainment,Movie Ticket,157.92,Debit Card,3,Mar,Thursday,10,2024Q1,Q1
+2024-03-08,Food & Dining,Zomato Order,484.35,Cash,3,Mar,Friday,10,2024Q1,Q1
+2024-03-08,Utilities,DTH Recharge,388.95,UPI,3,Mar,Friday,10,2024Q1,Q1
+2024-03-08,Utilities,DTH Recharge,375.92,UPI,3,Mar,Friday,10,2024Q1,Q1
+2024-03-09,Transport,Ola Cab,34.38,UPI,3,Mar,Saturday,10,2024Q1,Q1
+2024-03-10,Transport,Bus Pass,348.92,Credit Card,3,Mar,Sunday,10,2024Q1,Q1
+2024-03-11,Shopping,Flipkart Purchase,2146.67,UPI,3,Mar,Monday,11,2024Q1,Q1
+2024-03-12,Food & Dining,Zomato Order,576.11,Credit Card,3,Mar,Tuesday,11,2024Q1,Q1
+2024-03-12,Food & Dining,Zomato Order,473.64,UPI,3,Mar,Tuesday,11,2024Q1,Q1
+2024-03-13,Food & Dining,Swiggy,339.05,Cash,3,Mar,Wednesday,11,2024Q1,Q1
+2024-03-13,Health,Doctor Consultation,1034.44,Credit Card,3,Mar,Wednesday,11,2024Q1,Q1
+2024-03-13,Entertainment,Concert Ticket,382.44,UPI,3,Mar,Wednesday,11,2024Q1,Q1
+2024-03-14,Transport,Bus Pass,228.5,Credit Card,3,Mar,Thursday,11,2024Q1,Q1
+2024-03-14,Food & Dining,Tea & Snacks,589.84,Credit Card,3,Mar,Thursday,11,2024Q1,Q1
+2024-03-14,Entertainment,Concert Ticket,163.7,Credit Card,3,Mar,Thursday,11,2024Q1,Q1
+2024-03-15,Transport,Metro Card,125.35,Cash,3,Mar,Friday,11,2024Q1,Q1
+2024-03-16,Utilities,Gas Bill,318.86,Debit Card,3,Mar,Saturday,11,2024Q1,Q1
+2024-03-17,Food & Dining,Grocery Store,589.62,Cash,3,Mar,Sunday,11,2024Q1,Q1
+2024-03-18,Food & Dining,Restaurant Bill,204.88,UPI,3,Mar,Monday,12,2024Q1,Q1
+2024-03-19,Transport,Petrol Fill,74.42,Credit Card,3,Mar,Tuesday,12,2024Q1,Q1
+2024-03-20,Education,Coaching Class,869.81,Net Banking,3,Mar,Wednesday,12,2024Q1,Q1
+2024-03-21,Food & Dining,Restaurant Bill,507.33,UPI,3,Mar,Thursday,12,2024Q1,Q1
+2024-03-22,Food & Dining,Grocery Store,365.33,Cash,3,Mar,Friday,12,2024Q1,Q1
+2024-03-22,Rent & Housing,Electricity Bill,792.11,Cash,3,Mar,Friday,12,2024Q1,Q1
+2024-03-23,Rent & Housing,Electricity Bill,1618.88,Credit Card,3,Mar,Saturday,12,2024Q1,Q1
+2024-03-24,Transport,Petrol Fill,324.68,UPI,3,Mar,Sunday,12,2024Q1,Q1
+2024-03-24,Food & Dining,Zomato Order,123.95,Credit Card,3,Mar,Sunday,12,2024Q1,Q1
+2024-03-24,Utilities,DTH Recharge,272.65,Cash,3,Mar,Sunday,12,2024Q1,Q1
+2024-03-25,Shopping,Flipkart Purchase,1906.56,UPI,3,Mar,Monday,13,2024Q1,Q1
+2024-03-25,Food & Dining,Restaurant Bill,545.51,Cash,3,Mar,Monday,13,2024Q1,Q1
+2024-03-26,Food & Dining,Swiggy,312.65,Cash,3,Mar,Tuesday,13,2024Q1,Q1
+2024-03-26,Food & Dining,Zomato Order,463.45,UPI,3,Mar,Tuesday,13,2024Q1,Q1
+2024-03-26,Entertainment,Netflix Subscription,248.01,UPI,3,Mar,Tuesday,13,2024Q1,Q1
+2024-03-27,Education,Stationery,816.16,UPI,3,Mar,Wednesday,13,2024Q1,Q1
+2024-03-28,Transport,Metro Card,201.87,Credit Card,3,Mar,Thursday,13,2024Q1,Q1
+2024-03-29,Entertainment,Movie Ticket,298.64,UPI,3,Mar,Friday,13,2024Q1,Q1
+2024-03-30,Entertainment,Concert Ticket,349.27,Net Banking,3,Mar,Saturday,13,2024Q1,Q1
+2024-03-30,Entertainment,Netflix Subscription,105.27,UPI,3,Mar,Saturday,13,2024Q1,Q1
+2024-03-31,Food & Dining,Tea & Snacks,522.43,UPI,3,Mar,Sunday,13,2024Q1,Q1
+2024-03-31,Health,Lab Test,1084.38,UPI,3,Mar,Sunday,13,2024Q1,Q1
+2024-04-01,Food & Dining,Grocery Store,590.84,UPI,4,Apr,Monday,14,2024Q2,Q2
+2024-04-01,Transport,Metro Card,323.57,UPI,4,Apr,Monday,14,2024Q2,Q2
+2024-04-01,Utilities,Internet Bill,168.86,Credit Card,4,Apr,Monday,14,2024Q2,Q2
+2024-04-02,Shopping,Clothes,1493.29,UPI,4,Apr,Tuesday,14,2024Q2,Q2
+2024-04-03,Food & Dining,Tea & Snacks,301.23,Cash,4,Apr,Wednesday,14,2024Q2,Q2
+2024-04-04,Transport,Ola Cab,225.4,UPI,4,Apr,Thursday,14,2024Q2,Q2
+2024-04-05,Transport,Metro Card,132.61,Credit Card,4,Apr,Friday,14,2024Q2,Q2
+2024-04-06,Rent & Housing,Electricity Bill,1142.35,Cash,4,Apr,Saturday,14,2024Q2,Q2
+2024-04-06,Food & Dining,Swiggy,125.69,UPI,4,Apr,Saturday,14,2024Q2,Q2
+2024-04-07,Shopping,Clothes,1261.94,Credit Card,4,Apr,Sunday,14,2024Q2,Q2
+2024-04-08,Rent & Housing,Monthly Rent,1716.38,Credit Card,4,Apr,Monday,15,2024Q2,Q2
+2024-04-08,Transport,Bus Pass,263.88,Net Banking,4,Apr,Monday,15,2024Q2,Q2
+2024-04-08,Food & Dining,Restaurant Bill,561.75,Credit Card,4,Apr,Monday,15,2024Q2,Q2
+2024-04-09,Food & Dining,Zomato Order,470.26,Credit Card,4,Apr,Tuesday,15,2024Q2,Q2
+2024-04-10,Food & Dining,Grocery Store,202.56,Credit Card,4,Apr,Wednesday,15,2024Q2,Q2
+2024-04-10,Education,Online Course Fee,1340.36,UPI,4,Apr,Wednesday,15,2024Q2,Q2
+2024-04-10,Health,Gym Membership,879.44,Debit Card,4,Apr,Wednesday,15,2024Q2,Q2
+2024-04-11,Rent & Housing,Water Bill,933.61,Credit Card,4,Apr,Thursday,15,2024Q2,Q2
+2024-04-12,Education,Coaching Class,891.41,UPI,4,Apr,Friday,15,2024Q2,Q2
+2024-04-13,Transport,Petrol Fill,230.87,UPI,4,Apr,Saturday,15,2024Q2,Q2
+2024-04-13,Food & Dining,Grocery Store,337.62,Credit Card,4,Apr,Saturday,15,2024Q2,Q2
+2024-04-13,Entertainment,Gaming,206.17,UPI,4,Apr,Saturday,15,2024Q2,Q2
+2024-04-14,Shopping,Amazon Order,228.8,Credit Card,4,Apr,Sunday,15,2024Q2,Q2
+2024-04-15,Transport,Auto Rickshaw,139.47,Debit Card,4,Apr,Monday,16,2024Q2,Q2
+2024-04-15,Food & Dining,Tea & Snacks,317.64,Credit Card,4,Apr,Monday,16,2024Q2,Q2
+2024-04-16,Health,Medicine Purchase,624.72,Cash,4,Apr,Tuesday,16,2024Q2,Q2
+2024-04-16,Shopping,Clothes,1656.7,Credit Card,4,Apr,Tuesday,16,2024Q2,Q2
+2024-04-16,Transport,Petrol Fill,221.69,Debit Card,4,Apr,Tuesday,16,2024Q2,Q2
+2024-04-17,Education,Books,495.56,Cash,4,Apr,Wednesday,16,2024Q2,Q2
+2024-04-17,Rent & Housing,Water Bill,391.37,Credit Card,4,Apr,Wednesday,16,2024Q2,Q2
+2024-04-18,Food & Dining,Zomato Order,89.42,Debit Card,4,Apr,Thursday,16,2024Q2,Q2
+2024-04-18,Utilities,Gas Bill,557.75,Credit Card,4,Apr,Thursday,16,2024Q2,Q2
+2024-04-19,Shopping,Flipkart Purchase,1962.43,UPI,4,Apr,Friday,16,2024Q2,Q2
+2024-04-20,Transport,Bus Pass,63.36,Debit Card,4,Apr,Saturday,16,2024Q2,Q2
+2024-04-21,Transport,Bus Pass,345.15,Debit Card,4,Apr,Sunday,16,2024Q2,Q2
+2024-04-21,Food & Dining,Zomato Order,252.72,UPI,4,Apr,Sunday,16,2024Q2,Q2
+2024-04-21,Food & Dining,Grocery Store,277.24,Credit Card,4,Apr,Sunday,16,2024Q2,Q2
+2024-04-22,Health,Medicine Purchase,756.17,UPI,4,Apr,Monday,17,2024Q2,Q2
+2024-04-22,Transport,Auto Rickshaw,324.35,UPI,4,Apr,Monday,17,2024Q2,Q2
+2024-04-23,Transport,Petrol Fill,174.71,UPI,4,Apr,Tuesday,17,2024Q2,Q2
+2024-04-23,Transport,Petrol Fill,109.43,Credit Card,4,Apr,Tuesday,17,2024Q2,Q2
+2024-04-24,Food & Dining,Zomato Order,268.44,Credit Card,4,Apr,Wednesday,17,2024Q2,Q2
+2024-04-24,Entertainment,Spotify,248.88,Cash,4,Apr,Wednesday,17,2024Q2,Q2
+2024-04-25,Utilities,Mobile Recharge,369.8,Debit Card,4,Apr,Thursday,17,2024Q2,Q2
+2024-04-26,Utilities,Mobile Recharge,235.79,UPI,4,Apr,Friday,17,2024Q2,Q2
+2024-04-26,Transport,Petrol Fill,97.17,Debit Card,4,Apr,Friday,17,2024Q2,Q2
+2024-04-26,Food & Dining,Grocery Store,404.99,UPI,4,Apr,Friday,17,2024Q2,Q2
+2024-04-27,Food & Dining,Restaurant Bill,315.71,Cash,4,Apr,Saturday,17,2024Q2,Q2
+2024-04-27,Transport,Auto Rickshaw,189.04,Credit Card,4,Apr,Saturday,17,2024Q2,Q2
+2024-04-27,Food & Dining,Grocery Store,119.26,Credit Card,4,Apr,Saturday,17,2024Q2,Q2
+2024-04-28,Food & Dining,Swiggy,292.54,UPI,4,Apr,Sunday,17,2024Q2,Q2
+2024-04-28,Food & Dining,Swiggy,530.84,Cash,4,Apr,Sunday,17,2024Q2,Q2
+2024-04-29,Food & Dining,Restaurant Bill,342.86,Credit Card,4,Apr,Monday,18,2024Q2,Q2
+2024-04-30,Health,Gym Membership,1073.96,Credit Card,4,Apr,Tuesday,18,2024Q2,Q2
+2024-05-01,Health,Lab Test,888.94,Debit Card,5,May,Wednesday,18,2024Q2,Q2
+2024-05-01,Health,Lab Test,1137.74,UPI,5,May,Wednesday,18,2024Q2,Q2
+2024-05-02,Rent & Housing,Maintenance Charges,265.16,Credit Card,5,May,Thursday,18,2024Q2,Q2
+2024-05-02,Shopping,Electronics,212.35,UPI,5,May,Thursday,18,2024Q2,Q2
+2024-05-03,Transport,Auto Rickshaw,321.4,Credit Card,5,May,Friday,18,2024Q2,Q2
+2024-05-04,Food & Dining,Swiggy,268.79,UPI,5,May,Saturday,18,2024Q2,Q2
+2024-05-04,Health,Medicine Purchase,538.54,Credit Card,5,May,Saturday,18,2024Q2,Q2
+2024-05-04,Transport,Metro Card,100.24,Net Banking,5,May,Saturday,18,2024Q2,Q2
+2024-05-05,Education,Stationery,1480.98,Cash,5,May,Sunday,18,2024Q2,Q2
+2024-05-06,Transport,Ola Cab,115.98,Cash,5,May,Monday,19,2024Q2,Q2
+2024-05-07,Transport,Ola Cab,74.59,Debit Card,5,May,Tuesday,19,2024Q2,Q2
+2024-05-08,Transport,Bus Pass,251.19,Credit Card,5,May,Wednesday,19,2024Q2,Q2
+2024-05-08,Health,Lab Test,211.88,Credit Card,5,May,Wednesday,19,2024Q2,Q2
+2024-05-09,Food & Dining,Grocery Store,418.74,Debit Card,5,May,Thursday,19,2024Q2,Q2
+2024-05-09,Food & Dining,Swiggy,152.81,UPI,5,May,Thursday,19,2024Q2,Q2
+2024-05-10,Education,Stationery,525.95,Credit Card,5,May,Friday,19,2024Q2,Q2
+2024-05-10,Transport,Auto Rickshaw,322.61,Cash,5,May,Friday,19,2024Q2,Q2
+2024-05-10,Transport,Auto Rickshaw,165.05,UPI,5,May,Friday,19,2024Q2,Q2
+2024-05-11,Shopping,Clothes,362.29,Credit Card,5,May,Saturday,19,2024Q2,Q2
+2024-05-11,Food & Dining,Restaurant Bill,230.12,UPI,5,May,Saturday,19,2024Q2,Q2
+2024-05-12,Shopping,Clothes,2380.87,UPI,5,May,Sunday,19,2024Q2,Q2
+2024-05-13,Food & Dining,Zomato Order,220.35,Cash,5,May,Monday,20,2024Q2,Q2
+2024-05-13,Food & Dining,Tea & Snacks,106.74,Cash,5,May,Monday,20,2024Q2,Q2
+2024-05-14,Food & Dining,Zomato Order,480.87,UPI,5,May,Tuesday,20,2024Q2,Q2
+2024-05-15,Rent & Housing,Monthly Rent,1041.43,Credit Card,5,May,Wednesday,20,2024Q2,Q2
+2024-05-16,Transport,Petrol Fill,292.11,Credit Card,5,May,Thursday,20,2024Q2,Q2
+2024-05-16,Shopping,Flipkart Purchase,392.27,UPI,5,May,Thursday,20,2024Q2,Q2
+2024-05-17,Education,Online Course Fee,1227.02,Credit Card,5,May,Friday,20,2024Q2,Q2
+2024-05-17,Transport,Metro Card,203.41,Debit Card,5,May,Friday,20,2024Q2,Q2
+2024-05-17,Shopping,Electronics,1933.73,Credit Card,5,May,Friday,20,2024Q2,Q2
+2024-05-18,Utilities,Internet Bill,334.5,UPI,5,May,Saturday,20,2024Q2,Q2
+2024-05-18,Utilities,Mobile Recharge,428.36,UPI,5,May,Saturday,20,2024Q2,Q2
+2024-05-19,Utilities,Internet Bill,375.33,Debit Card,5,May,Sunday,20,2024Q2,Q2
+2024-05-19,Food & Dining,Grocery Store,460.13,UPI,5,May,Sunday,20,2024Q2,Q2
+2024-05-19,Food & Dining,Restaurant Bill,571.02,Cash,5,May,Sunday,20,2024Q2,Q2
+2024-05-20,Food & Dining,Restaurant Bill,245.93,Debit Card,5,May,Monday,21,2024Q2,Q2
+2024-05-20,Food & Dining,Restaurant Bill,371.55,Cash,5,May,Monday,21,2024Q2,Q2
+2024-05-21,Shopping,Flipkart Purchase,1853.2,UPI,5,May,Tuesday,21,2024Q2,Q2
+2024-05-21,Rent & Housing,Monthly Rent,1122.96,Credit Card,5,May,Tuesday,21,2024Q2,Q2
+2024-05-21,Shopping,Amazon Order,2232.05,Credit Card,5,May,Tuesday,21,2024Q2,Q2
+2024-05-22,Transport,Petrol Fill,308.43,UPI,5,May,Wednesday,21,2024Q2,Q2
+2024-05-22,Education,Online Course Fee,699.15,Net Banking,5,May,Wednesday,21,2024Q2,Q2
+2024-05-23,Utilities,Gas Bill,107.4,UPI,5,May,Thursday,21,2024Q2,Q2
+2024-05-23,Food & Dining,Tea & Snacks,406.3,Debit Card,5,May,Thursday,21,2024Q2,Q2
+2024-05-23,Utilities,Internet Bill,127.68,UPI,5,May,Thursday,21,2024Q2,Q2
+2024-05-24,Shopping,Amazon Order,409.61,UPI,5,May,Friday,21,2024Q2,Q2
+2024-05-25,Education,Books,503.69,UPI,5,May,Saturday,21,2024Q2,Q2
+2024-05-25,Food & Dining,Zomato Order,136.92,UPI,5,May,Saturday,21,2024Q2,Q2
+2024-05-26,Utilities,Mobile Recharge,214.67,Credit Card,5,May,Sunday,21,2024Q2,Q2
+2024-05-26,Utilities,DTH Recharge,571.26,Cash,5,May,Sunday,21,2024Q2,Q2
+2024-05-26,Entertainment,Netflix Subscription,620.35,UPI,5,May,Sunday,21,2024Q2,Q2
+2024-05-27,Entertainment,Gaming,681.45,UPI,5,May,Monday,22,2024Q2,Q2
+2024-05-28,Food & Dining,Swiggy,99.1,Net Banking,5,May,Tuesday,22,2024Q2,Q2
+2024-05-28,Health,Medicine Purchase,144.78,Net Banking,5,May,Tuesday,22,2024Q2,Q2
+2024-05-28,Education,Coaching Class,976.46,Cash,5,May,Tuesday,22,2024Q2,Q2
+2024-05-29,Transport,Auto Rickshaw,187.18,Net Banking,5,May,Wednesday,22,2024Q2,Q2
+2024-05-29,Education,Coaching Class,491.77,UPI,5,May,Wednesday,22,2024Q2,Q2
+2024-05-29,Transport,Ola Cab,316.37,Debit Card,5,May,Wednesday,22,2024Q2,Q2
+2024-05-30,Education,Coaching Class,554.85,Cash,5,May,Thursday,22,2024Q2,Q2
+2024-05-30,Food & Dining,Swiggy,528.31,Debit Card,5,May,Thursday,22,2024Q2,Q2
+2024-05-30,Entertainment,Gaming,614.65,UPI,5,May,Thursday,22,2024Q2,Q2
+2024-05-31,Food & Dining,Restaurant Bill,456.18,Cash,5,May,Friday,22,2024Q2,Q2
+2024-05-31,Food & Dining,Tea & Snacks,136.92,Debit Card,5,May,Friday,22,2024Q2,Q2
+2024-05-31,Utilities,Internet Bill,337.48,Cash,5,May,Friday,22,2024Q2,Q2
+2024-06-01,Education,Coaching Class,652.15,Credit Card,6,Jun,Saturday,22,2024Q2,Q2
+2024-06-02,Education,Online Course Fee,1342.22,Credit Card,6,Jun,Sunday,22,2024Q2,Q2
+2024-06-02,Entertainment,Netflix Subscription,210.14,UPI,6,Jun,Sunday,22,2024Q2,Q2
+2024-06-02,Rent & Housing,Monthly Rent,1425.2,Credit Card,6,Jun,Sunday,22,2024Q2,Q2
+2024-06-03,Shopping,Accessories,522.72,Debit Card,6,Jun,Monday,23,2024Q2,Q2
+2024-06-03,Education,Coaching Class,1342.79,UPI,6,Jun,Monday,23,2024Q2,Q2
+2024-06-03,Health,Medicine Purchase,912.73,UPI,6,Jun,Monday,23,2024Q2,Q2
+2024-06-04,Health,Medicine Purchase,369.73,UPI,6,Jun,Tuesday,23,2024Q2,Q2
+2024-06-04,Food & Dining,Restaurant Bill,590.22,Credit Card,6,Jun,Tuesday,23,2024Q2,Q2
+2024-06-05,Rent & Housing,Maintenance Charges,1125.97,Credit Card,6,Jun,Wednesday,23,2024Q2,Q2
+2024-06-05,Food & Dining,Swiggy,304.77,Debit Card,6,Jun,Wednesday,23,2024Q2,Q2
+2024-06-05,Transport,Bus Pass,62.8,Net Banking,6,Jun,Wednesday,23,2024Q2,Q2
+2024-06-06,Utilities,Gas Bill,448.25,UPI,6,Jun,Thursday,23,2024Q2,Q2
+2024-06-06,Entertainment,Netflix Subscription,140.54,UPI,6,Jun,Thursday,23,2024Q2,Q2
+2024-06-07,Education,Stationery,1078.87,Cash,6,Jun,Friday,23,2024Q2,Q2
+2024-06-07,Entertainment,Spotify,630.78,UPI,6,Jun,Friday,23,2024Q2,Q2
+2024-06-08,Health,Gym Membership,627.28,Credit Card,6,Jun,Saturday,23,2024Q2,Q2
+2024-06-08,Shopping,Flipkart Purchase,523.5,Cash,6,Jun,Saturday,23,2024Q2,Q2
+2024-06-08,Utilities,DTH Recharge,314.72,UPI,6,Jun,Saturday,23,2024Q2,Q2
+2024-06-09,Health,Gym Membership,327.26,UPI,6,Jun,Sunday,23,2024Q2,Q2
+2024-06-09,Shopping,Clothes,792.16,Net Banking,6,Jun,Sunday,23,2024Q2,Q2
+2024-06-09,Food & Dining,Tea & Snacks,460.26,Debit Card,6,Jun,Sunday,23,2024Q2,Q2
+2024-06-10,Entertainment,Concert Ticket,291.95,Net Banking,6,Jun,Monday,24,2024Q2,Q2
+2024-06-11,Rent & Housing,Electricity Bill,536.91,UPI,6,Jun,Tuesday,24,2024Q2,Q2
+2024-06-12,Entertainment,Spotify,493.93,Cash,6,Jun,Wednesday,24,2024Q2,Q2
+2024-06-13,Utilities,Internet Bill,185.92,UPI,6,Jun,Thursday,24,2024Q2,Q2
+2024-06-13,Food & Dining,Restaurant Bill,519.29,Credit Card,6,Jun,Thursday,24,2024Q2,Q2
+2024-06-13,Entertainment,Spotify,122.77,Net Banking,6,Jun,Thursday,24,2024Q2,Q2
+2024-06-14,Food & Dining,Zomato Order,80.64,Credit Card,6,Jun,Friday,24,2024Q2,Q2
+2024-06-14,Entertainment,Spotify,401.21,UPI,6,Jun,Friday,24,2024Q2,Q2
+2024-06-14,Transport,Bus Pass,116.08,Credit Card,6,Jun,Friday,24,2024Q2,Q2
+2024-06-15,Utilities,Mobile Recharge,86.04,UPI,6,Jun,Saturday,24,2024Q2,Q2
+2024-06-15,Transport,Petrol Fill,252.39,Debit Card,6,Jun,Saturday,24,2024Q2,Q2
+2024-06-15,Shopping,Clothes,1279.19,UPI,6,Jun,Saturday,24,2024Q2,Q2
+2024-06-16,Food & Dining,Tea & Snacks,445.28,Credit Card,6,Jun,Sunday,24,2024Q2,Q2
+2024-06-17,Rent & Housing,Electricity Bill,1115.06,Debit Card,6,Jun,Monday,25,2024Q2,Q2
+2024-06-17,Food & Dining,Grocery Store,120.86,UPI,6,Jun,Monday,25,2024Q2,Q2
+2024-06-18,Utilities,Internet Bill,438.52,Debit Card,6,Jun,Tuesday,25,2024Q2,Q2
+2024-06-18,Food & Dining,Tea & Snacks,134.38,Credit Card,6,Jun,Tuesday,25,2024Q2,Q2
+2024-06-19,Education,Online Course Fee,1417.08,UPI,6,Jun,Wednesday,25,2024Q2,Q2
+2024-06-19,Transport,Auto Rickshaw,329.26,Net Banking,6,Jun,Wednesday,25,2024Q2,Q2
+2024-06-19,Entertainment,Spotify,337.62,Debit Card,6,Jun,Wednesday,25,2024Q2,Q2
+2024-06-20,Shopping,Accessories,1554.07,Credit Card,6,Jun,Thursday,25,2024Q2,Q2
+2024-06-20,Transport,Ola Cab,82.48,Cash,6,Jun,Thursday,25,2024Q2,Q2
+2024-06-20,Shopping,Accessories,730.69,UPI,6,Jun,Thursday,25,2024Q2,Q2
+2024-06-21,Entertainment,Concert Ticket,783.11,UPI,6,Jun,Friday,25,2024Q2,Q2
+2024-06-22,Health,Gym Membership,128.9,UPI,6,Jun,Saturday,25,2024Q2,Q2
+2024-06-23,Shopping,Electronics,2491.38,Net Banking,6,Jun,Sunday,25,2024Q2,Q2
+2024-06-23,Entertainment,Movie Ticket,382.28,UPI,6,Jun,Sunday,25,2024Q2,Q2
+2024-06-24,Food & Dining,Zomato Order,517.04,UPI,6,Jun,Monday,26,2024Q2,Q2
+2024-06-24,Utilities,Internet Bill,466.21,Cash,6,Jun,Monday,26,2024Q2,Q2
+2024-06-25,Utilities,Gas Bill,362.52,Cash,6,Jun,Tuesday,26,2024Q2,Q2
+2024-06-25,Entertainment,Movie Ticket,607.68,Cash,6,Jun,Tuesday,26,2024Q2,Q2
+2024-06-26,Entertainment,Spotify,395.2,UPI,6,Jun,Wednesday,26,2024Q2,Q2
+2024-06-26,Entertainment,Gaming,247.46,Credit Card,6,Jun,Wednesday,26,2024Q2,Q2
+2024-06-27,Shopping,Clothes,1973.6,Cash,6,Jun,Thursday,26,2024Q2,Q2
+2024-06-28,Food & Dining,Tea & Snacks,273.88,Cash,6,Jun,Friday,26,2024Q2,Q2
+2024-06-28,Transport,Bus Pass,169.89,UPI,6,Jun,Friday,26,2024Q2,Q2
+2024-06-29,Transport,Ola Cab,242.04,UPI,6,Jun,Saturday,26,2024Q2,Q2
+2024-06-30,Transport,Ola Cab,157.69,Debit Card,6,Jun,Sunday,26,2024Q2,Q2
+2024-07-01,Rent & Housing,Maintenance Charges,1237.56,UPI,7,Jul,Monday,27,2024Q3,Q3
+2024-07-02,Transport,Petrol Fill,312.79,Cash,7,Jul,Tuesday,27,2024Q3,Q3
+2024-07-02,Rent & Housing,Monthly Rent,740.31,Debit Card,7,Jul,Tuesday,27,2024Q3,Q3
+2024-07-02,Transport,Metro Card,218.12,Net Banking,7,Jul,Tuesday,27,2024Q3,Q3
+2024-07-03,Food & Dining,Tea & Snacks,277.27,Credit Card,7,Jul,Wednesday,27,2024Q3,Q3
+2024-07-04,Shopping,Electronics,1987.21,Credit Card,7,Jul,Thursday,27,2024Q3,Q3
+2024-07-04,Transport,Metro Card,202.77,UPI,7,Jul,Thursday,27,2024Q3,Q3
+2024-07-04,Utilities,Mobile Recharge,356.21,Net Banking,7,Jul,Thursday,27,2024Q3,Q3
+2024-07-05,Entertainment,Concert Ticket,416.54,Net Banking,7,Jul,Friday,27,2024Q3,Q3
+2024-07-06,Food & Dining,Restaurant Bill,101.62,UPI,7,Jul,Saturday,27,2024Q3,Q3
+2024-07-07,Transport,Petrol Fill,31.58,Net Banking,7,Jul,Sunday,27,2024Q3,Q3
+2024-07-08,Utilities,DTH Recharge,316.46,Cash,7,Jul,Monday,28,2024Q3,Q3
+2024-07-08,Transport,Metro Card,200.32,UPI,7,Jul,Monday,28,2024Q3,Q3
+2024-07-09,Rent & Housing,Maintenance Charges,1885.66,Credit Card,7,Jul,Tuesday,28,2024Q3,Q3
+2024-07-09,Food & Dining,Grocery Store,128.83,Credit Card,7,Jul,Tuesday,28,2024Q3,Q3
+2024-07-10,Education,Books,531.9,Credit Card,7,Jul,Wednesday,28,2024Q3,Q3
+2024-07-10,Utilities,DTH Recharge,435.29,Cash,7,Jul,Wednesday,28,2024Q3,Q3
+2024-07-11,Health,Gym Membership,719.08,UPI,7,Jul,Thursday,28,2024Q3,Q3
+2024-07-12,Shopping,Amazon Order,1561.43,Net Banking,7,Jul,Friday,28,2024Q3,Q3
+2024-07-13,Transport,Bus Pass,214.7,UPI,7,Jul,Saturday,28,2024Q3,Q3
+2024-07-13,Food & Dining,Zomato Order,530.55,Net Banking,7,Jul,Saturday,28,2024Q3,Q3
+2024-07-14,Health,Medicine Purchase,403.33,UPI,7,Jul,Sunday,28,2024Q3,Q3
+2024-07-15,Transport,Metro Card,243.63,Debit Card,7,Jul,Monday,29,2024Q3,Q3
+2024-07-15,Shopping,Amazon Order,895.41,Debit Card,7,Jul,Monday,29,2024Q3,Q3
+2024-07-16,Food & Dining,Zomato Order,250.76,Credit Card,7,Jul,Tuesday,29,2024Q3,Q3
+2024-07-17,Transport,Bus Pass,151.73,Cash,7,Jul,Wednesday,29,2024Q3,Q3
+2024-07-17,Entertainment,Netflix Subscription,411.09,UPI,7,Jul,Wednesday,29,2024Q3,Q3
+2024-07-18,Entertainment,Movie Ticket,631.54,Cash,7,Jul,Thursday,29,2024Q3,Q3
+2024-07-18,Transport,Auto Rickshaw,183.34,UPI,7,Jul,Thursday,29,2024Q3,Q3
+2024-07-18,Rent & Housing,Maintenance Charges,383.08,Cash,7,Jul,Thursday,29,2024Q3,Q3
+2024-07-19,Transport,Petrol Fill,274.76,Debit Card,7,Jul,Friday,29,2024Q3,Q3
+2024-07-19,Shopping,Clothes,1374.9,Debit Card,7,Jul,Friday,29,2024Q3,Q3
+2024-07-19,Transport,Bus Pass,317.37,UPI,7,Jul,Friday,29,2024Q3,Q3
+2024-07-20,Transport,Metro Card,329.02,UPI,7,Jul,Saturday,29,2024Q3,Q3
+2024-07-20,Food & Dining,Grocery Store,401.02,Cash,7,Jul,Saturday,29,2024Q3,Q3
+2024-07-20,Shopping,Electronics,2037.11,Cash,7,Jul,Saturday,29,2024Q3,Q3
+2024-07-21,Entertainment,Movie Ticket,379.93,Net Banking,7,Jul,Sunday,29,2024Q3,Q3
+2024-07-21,Health,Doctor Consultation,282.89,Credit Card,7,Jul,Sunday,29,2024Q3,Q3
+2024-07-22,Health,Gym Membership,874.13,UPI,7,Jul,Monday,30,2024Q3,Q3
+2024-07-22,Entertainment,Movie Ticket,742.43,Cash,7,Jul,Monday,30,2024Q3,Q3
+2024-07-23,Health,Medicine Purchase,498.33,Cash,7,Jul,Tuesday,30,2024Q3,Q3
+2024-07-23,Food & Dining,Grocery Store,392.84,Debit Card,7,Jul,Tuesday,30,2024Q3,Q3
+2024-07-24,Entertainment,Movie Ticket,248.43,Credit Card,7,Jul,Wednesday,30,2024Q3,Q3
+2024-07-24,Transport,Bus Pass,319.89,Credit Card,7,Jul,Wednesday,30,2024Q3,Q3
+2024-07-25,Food & Dining,Grocery Store,237.07,Credit Card,7,Jul,Thursday,30,2024Q3,Q3
+2024-07-26,Shopping,Flipkart Purchase,1951.64,UPI,7,Jul,Friday,30,2024Q3,Q3
+2024-07-26,Transport,Bus Pass,83.76,Credit Card,7,Jul,Friday,30,2024Q3,Q3
+2024-07-26,Education,Coaching Class,895.97,UPI,7,Jul,Friday,30,2024Q3,Q3
+2024-07-27,Entertainment,Spotify,244.33,Credit Card,7,Jul,Saturday,30,2024Q3,Q3
+2024-07-28,Transport,Bus Pass,48.71,UPI,7,Jul,Sunday,30,2024Q3,Q3
+2024-07-29,Entertainment,Movie Ticket,383.02,Cash,7,Jul,Monday,31,2024Q3,Q3
+2024-07-29,Shopping,Amazon Order,187.18,UPI,7,Jul,Monday,31,2024Q3,Q3
+2024-07-29,Health,Lab Test,891.26,Credit Card,7,Jul,Monday,31,2024Q3,Q3
+2024-07-30,Shopping,Accessories,351.3,Debit Card,7,Jul,Tuesday,31,2024Q3,Q3
+2024-07-30,Food & Dining,Zomato Order,197.86,UPI,7,Jul,Tuesday,31,2024Q3,Q3
+2024-07-30,Food & Dining,Zomato Order,512.57,Credit Card,7,Jul,Tuesday,31,2024Q3,Q3
+2024-07-31,Entertainment,Movie Ticket,576.09,UPI,7,Jul,Wednesday,31,2024Q3,Q3
+2024-07-31,Transport,Auto Rickshaw,348.12,Credit Card,7,Jul,Wednesday,31,2024Q3,Q3
+2024-07-31,Transport,Auto Rickshaw,172.83,UPI,7,Jul,Wednesday,31,2024Q3,Q3
+2024-08-01,Entertainment,Spotify,773.17,Credit Card,8,Aug,Thursday,31,2024Q3,Q3
+2024-08-01,Shopping,Flipkart Purchase,377.19,Cash,8,Aug,Thursday,31,2024Q3,Q3
+2024-08-02,Rent & Housing,Maintenance Charges,1611.35,Net Banking,8,Aug,Friday,31,2024Q3,Q3
+2024-08-03,Food & Dining,Restaurant Bill,159.26,Net Banking,8,Aug,Saturday,31,2024Q3,Q3
+2024-08-04,Health,Medicine Purchase,184.08,UPI,8,Aug,Sunday,31,2024Q3,Q3
+2024-08-05,Education,Online Course Fee,1273.89,Credit Card,8,Aug,Monday,32,2024Q3,Q3
+2024-08-05,Shopping,Accessories,862.35,UPI,8,Aug,Monday,32,2024Q3,Q3
+2024-08-05,Rent & Housing,Monthly Rent,758.01,UPI,8,Aug,Monday,32,2024Q3,Q3
+2024-08-06,Rent & Housing,Maintenance Charges,631.44,Net Banking,8,Aug,Tuesday,32,2024Q3,Q3
+2024-08-07,Transport,Petrol Fill,281.61,Credit Card,8,Aug,Wednesday,32,2024Q3,Q3
+2024-08-07,Entertainment,Spotify,245.96,Net Banking,8,Aug,Wednesday,32,2024Q3,Q3
+2024-08-08,Transport,Bus Pass,151.8,Debit Card,8,Aug,Thursday,32,2024Q3,Q3
+2024-08-08,Education,Books,383.66,UPI,8,Aug,Thursday,32,2024Q3,Q3
+2024-08-09,Food & Dining,Grocery Store,91.9,UPI,8,Aug,Friday,32,2024Q3,Q3
+2024-08-09,Food & Dining,Tea & Snacks,377.98,Net Banking,8,Aug,Friday,32,2024Q3,Q3
+2024-08-10,Food & Dining,Zomato Order,559.83,Cash,8,Aug,Saturday,32,2024Q3,Q3
+2024-08-10,Entertainment,Gaming,322.27,Net Banking,8,Aug,Saturday,32,2024Q3,Q3
+2024-08-11,Food & Dining,Grocery Store,143.32,Cash,8,Aug,Sunday,32,2024Q3,Q3
+2024-08-11,Transport,Metro Card,55.59,Credit Card,8,Aug,Sunday,32,2024Q3,Q3
+2024-08-12,Utilities,Gas Bill,308.55,UPI,8,Aug,Monday,33,2024Q3,Q3
+2024-08-13,Food & Dining,Restaurant Bill,402.19,Credit Card,8,Aug,Tuesday,33,2024Q3,Q3
+2024-08-13,Food & Dining,Restaurant Bill,373.51,UPI,8,Aug,Tuesday,33,2024Q3,Q3
+2024-08-14,Food & Dining,Restaurant Bill,472.21,Credit Card,8,Aug,Wednesday,33,2024Q3,Q3
+2024-08-15,Utilities,DTH Recharge,168.75,UPI,8,Aug,Thursday,33,2024Q3,Q3
+2024-08-15,Health,Doctor Consultation,193.17,Credit Card,8,Aug,Thursday,33,2024Q3,Q3
+2024-08-15,Food & Dining,Tea & Snacks,409.26,UPI,8,Aug,Thursday,33,2024Q3,Q3
+2024-08-16,Entertainment,Spotify,221.63,Credit Card,8,Aug,Friday,33,2024Q3,Q3
+2024-08-17,Transport,Bus Pass,313.71,Cash,8,Aug,Saturday,33,2024Q3,Q3
+2024-08-17,Food & Dining,Restaurant Bill,295.35,Debit Card,8,Aug,Saturday,33,2024Q3,Q3
+2024-08-18,Transport,Bus Pass,33.53,Cash,8,Aug,Sunday,33,2024Q3,Q3
+2024-08-19,Transport,Bus Pass,273.29,UPI,8,Aug,Monday,34,2024Q3,Q3
+2024-08-19,Transport,Ola Cab,133.52,Debit Card,8,Aug,Monday,34,2024Q3,Q3
+2024-08-19,Entertainment,Gaming,661.08,Net Banking,8,Aug,Monday,34,2024Q3,Q3
+2024-08-20,Food & Dining,Tea & Snacks,415.97,Cash,8,Aug,Tuesday,34,2024Q3,Q3
+2024-08-21,Food & Dining,Tea & Snacks,529.62,UPI,8,Aug,Wednesday,34,2024Q3,Q3
+2024-08-21,Entertainment,Concert Ticket,363.12,UPI,8,Aug,Wednesday,34,2024Q3,Q3
+2024-08-21,Transport,Bus Pass,335.99,UPI,8,Aug,Wednesday,34,2024Q3,Q3
+2024-08-22,Entertainment,Netflix Subscription,581.69,Cash,8,Aug,Thursday,34,2024Q3,Q3
+2024-08-23,Food & Dining,Swiggy,99.98,Debit Card,8,Aug,Friday,34,2024Q3,Q3
+2024-08-24,Health,Gym Membership,818.48,Debit Card,8,Aug,Saturday,34,2024Q3,Q3
+2024-08-25,Entertainment,Spotify,415.43,Debit Card,8,Aug,Sunday,34,2024Q3,Q3
+2024-08-26,Shopping,Amazon Order,1191.69,UPI,8,Aug,Monday,35,2024Q3,Q3
+2024-08-27,Shopping,Amazon Order,319.4,UPI,8,Aug,Tuesday,35,2024Q3,Q3
+2024-08-28,Utilities,Mobile Recharge,281.55,Cash,8,Aug,Wednesday,35,2024Q3,Q3
+2024-08-29,Utilities,DTH Recharge,423.91,UPI,8,Aug,Thursday,35,2024Q3,Q3
+2024-08-29,Food & Dining,Grocery Store,365.8,Debit Card,8,Aug,Thursday,35,2024Q3,Q3
+2024-08-29,Food & Dining,Swiggy,90.89,UPI,8,Aug,Thursday,35,2024Q3,Q3
+2024-08-30,Rent & Housing,Maintenance Charges,532.9,Net Banking,8,Aug,Friday,35,2024Q3,Q3
+2024-08-31,Food & Dining,Zomato Order,212.82,UPI,8,Aug,Saturday,35,2024Q3,Q3
+2024-08-31,Food & Dining,Zomato Order,355.76,UPI,8,Aug,Saturday,35,2024Q3,Q3
+2024-08-31,Utilities,Mobile Recharge,145.12,Cash,8,Aug,Saturday,35,2024Q3,Q3
+2024-09-01,Entertainment,Gaming,744.21,Cash,9,Sep,Sunday,35,2024Q3,Q3
+2024-09-01,Entertainment,Movie Ticket,189.67,UPI,9,Sep,Sunday,35,2024Q3,Q3
+2024-09-02,Food & Dining,Zomato Order,275.52,Credit Card,9,Sep,Monday,36,2024Q3,Q3
+2024-09-02,Transport,Auto Rickshaw,331.78,UPI,9,Sep,Monday,36,2024Q3,Q3
+2024-09-03,Shopping,Clothes,2234.27,Credit Card,9,Sep,Tuesday,36,2024Q3,Q3
+2024-09-04,Shopping,Amazon Order,757.31,Cash,9,Sep,Wednesday,36,2024Q3,Q3
+2024-09-04,Entertainment,Gaming,784.88,Credit Card,9,Sep,Wednesday,36,2024Q3,Q3
+2024-09-04,Transport,Metro Card,47.23,UPI,9,Sep,Wednesday,36,2024Q3,Q3
+2024-09-05,Utilities,Internet Bill,360.57,Credit Card,9,Sep,Thursday,36,2024Q3,Q3
+2024-09-05,Food & Dining,Grocery Store,457.51,Debit Card,9,Sep,Thursday,36,2024Q3,Q3
+2024-09-06,Transport,Metro Card,264.5,Cash,9,Sep,Friday,36,2024Q3,Q3
+2024-09-06,Entertainment,Concert Ticket,308.28,Credit Card,9,Sep,Friday,36,2024Q3,Q3
+2024-09-06,Shopping,Accessories,1645.28,Credit Card,9,Sep,Friday,36,2024Q3,Q3
+2024-09-07,Food & Dining,Swiggy,84.85,UPI,9,Sep,Saturday,36,2024Q3,Q3
+2024-09-07,Shopping,Amazon Order,803.07,UPI,9,Sep,Saturday,36,2024Q3,Q3
+2024-09-07,Education,Books,465.25,Credit Card,9,Sep,Saturday,36,2024Q3,Q3
+2024-09-08,Entertainment,Concert Ticket,581.52,UPI,9,Sep,Sunday,36,2024Q3,Q3
+2024-09-08,Transport,Metro Card,31.67,Credit Card,9,Sep,Sunday,36,2024Q3,Q3
+2024-09-09,Health,Doctor Consultation,306.78,Net Banking,9,Sep,Monday,37,2024Q3,Q3
+2024-09-09,Rent & Housing,Water Bill,1536.9,Debit Card,9,Sep,Monday,37,2024Q3,Q3
+2024-09-10,Education,Online Course Fee,362.13,UPI,9,Sep,Tuesday,37,2024Q3,Q3
+2024-09-10,Entertainment,Movie Ticket,720.34,Credit Card,9,Sep,Tuesday,37,2024Q3,Q3
+2024-09-11,Shopping,Electronics,218.32,UPI,9,Sep,Wednesday,37,2024Q3,Q3
+2024-09-12,Transport,Ola Cab,218.22,Cash,9,Sep,Thursday,37,2024Q3,Q3
+2024-09-13,Shopping,Electronics,1512.96,Credit Card,9,Sep,Friday,37,2024Q3,Q3
+2024-09-13,Entertainment,Movie Ticket,519.56,Credit Card,9,Sep,Friday,37,2024Q3,Q3
+2024-09-14,Transport,Petrol Fill,48.74,UPI,9,Sep,Saturday,37,2024Q3,Q3
+2024-09-14,Health,Doctor Consultation,315.02,Debit Card,9,Sep,Saturday,37,2024Q3,Q3
+2024-09-14,Transport,Bus Pass,77.18,UPI,9,Sep,Saturday,37,2024Q3,Q3
+2024-09-15,Food & Dining,Tea & Snacks,112.52,Debit Card,9,Sep,Sunday,37,2024Q3,Q3
+2024-09-15,Shopping,Amazon Order,2342.82,Credit Card,9,Sep,Sunday,37,2024Q3,Q3
+2024-09-15,Transport,Metro Card,188.77,UPI,9,Sep,Sunday,37,2024Q3,Q3
+2024-09-16,Transport,Metro Card,152.83,Credit Card,9,Sep,Monday,38,2024Q3,Q3
+2024-09-16,Entertainment,Netflix Subscription,495.88,Net Banking,9,Sep,Monday,38,2024Q3,Q3
+2024-09-16,Food & Dining,Restaurant Bill,92.58,Debit Card,9,Sep,Monday,38,2024Q3,Q3
+2024-09-17,Shopping,Clothes,852.01,Net Banking,9,Sep,Tuesday,38,2024Q3,Q3
+2024-09-18,Education,Books,1334.55,Debit Card,9,Sep,Wednesday,38,2024Q3,Q3
+2024-09-18,Food & Dining,Zomato Order,306.29,Net Banking,9,Sep,Wednesday,38,2024Q3,Q3
+2024-09-19,Entertainment,Movie Ticket,736.57,Credit Card,9,Sep,Thursday,38,2024Q3,Q3
+2024-09-19,Food & Dining,Zomato Order,162.63,Credit Card,9,Sep,Thursday,38,2024Q3,Q3
+2024-09-20,Shopping,Amazon Order,2398.04,UPI,9,Sep,Friday,38,2024Q3,Q3
+2024-09-21,Rent & Housing,Maintenance Charges,623.87,UPI,9,Sep,Saturday,38,2024Q3,Q3
+2024-09-21,Health,Doctor Consultation,384.58,Credit Card,9,Sep,Saturday,38,2024Q3,Q3
+2024-09-22,Health,Doctor Consultation,153.21,Cash,9,Sep,Sunday,38,2024Q3,Q3
+2024-09-22,Food & Dining,Tea & Snacks,402.24,Credit Card,9,Sep,Sunday,38,2024Q3,Q3
+2024-09-23,Transport,Ola Cab,276.99,UPI,9,Sep,Monday,39,2024Q3,Q3
+2024-09-24,Food & Dining,Restaurant Bill,580.97,Credit Card,9,Sep,Tuesday,39,2024Q3,Q3
+2024-09-24,Utilities,Internet Bill,510.49,Credit Card,9,Sep,Tuesday,39,2024Q3,Q3
+2024-09-24,Entertainment,Gaming,786.91,UPI,9,Sep,Tuesday,39,2024Q3,Q3
+2024-09-25,Shopping,Electronics,1478.53,Cash,9,Sep,Wednesday,39,2024Q3,Q3
+2024-09-25,Utilities,Gas Bill,583.03,UPI,9,Sep,Wednesday,39,2024Q3,Q3
+2024-09-25,Food & Dining,Grocery Store,197.16,UPI,9,Sep,Wednesday,39,2024Q3,Q3
+2024-09-26,Shopping,Amazon Order,1379.97,UPI,9,Sep,Thursday,39,2024Q3,Q3
+2024-09-26,Education,Books,905.31,Credit Card,9,Sep,Thursday,39,2024Q3,Q3
+2024-09-26,Transport,Auto Rickshaw,56.15,Cash,9,Sep,Thursday,39,2024Q3,Q3
+2024-09-27,Transport,Bus Pass,332.62,Debit Card,9,Sep,Friday,39,2024Q3,Q3
+2024-09-28,Food & Dining,Restaurant Bill,418.51,Cash,9,Sep,Saturday,39,2024Q3,Q3
+2024-09-28,Food & Dining,Tea & Snacks,265.11,Net Banking,9,Sep,Saturday,39,2024Q3,Q3
+2024-09-29,Health,Lab Test,460.55,Debit Card,9,Sep,Sunday,39,2024Q3,Q3
+2024-09-29,Transport,Metro Card,272.16,Cash,9,Sep,Sunday,39,2024Q3,Q3
+2024-09-29,Food & Dining,Grocery Store,423.01,UPI,9,Sep,Sunday,39,2024Q3,Q3
+2024-09-30,Food & Dining,Zomato Order,371.29,Credit Card,9,Sep,Monday,40,2024Q3,Q3
+2024-09-30,Transport,Auto Rickshaw,50.87,Cash,9,Sep,Monday,40,2024Q3,Q3
+2024-10-01,Transport,Petrol Fill,63.75,Credit Card,10,Oct,Tuesday,40,2024Q4,Q4
+2024-10-02,Transport,Petrol Fill,278.2,Net Banking,10,Oct,Wednesday,40,2024Q4,Q4
+2024-10-03,Food & Dining,Tea & Snacks,492.28,Credit Card,10,Oct,Thursday,40,2024Q4,Q4
+2024-10-03,Entertainment,Netflix Subscription,377.18,Debit Card,10,Oct,Thursday,40,2024Q4,Q4
+2024-10-04,Food & Dining,Tea & Snacks,370.07,UPI,10,Oct,Friday,40,2024Q4,Q4
+2024-10-04,Entertainment,Gaming,734.3,UPI,10,Oct,Friday,40,2024Q4,Q4
+2024-10-05,Food & Dining,Zomato Order,97.36,UPI,10,Oct,Saturday,40,2024Q4,Q4
+2024-10-05,Shopping,Clothes,885.93,Credit Card,10,Oct,Saturday,40,2024Q4,Q4
+2024-10-06,Food & Dining,Zomato Order,497.87,Cash,10,Oct,Sunday,40,2024Q4,Q4
+2024-10-06,Utilities,DTH Recharge,332.39,UPI,10,Oct,Sunday,40,2024Q4,Q4
+2024-10-07,Entertainment,Spotify,797.95,Net Banking,10,Oct,Monday,41,2024Q4,Q4
+2024-10-07,Entertainment,Concert Ticket,580.8,UPI,10,Oct,Monday,41,2024Q4,Q4
+2024-10-08,Health,Doctor Consultation,168.94,Credit Card,10,Oct,Tuesday,41,2024Q4,Q4
+2024-10-09,Rent & Housing,Monthly Rent,1656.22,Cash,10,Oct,Wednesday,41,2024Q4,Q4
+2024-10-10,Shopping,Amazon Order,1257.24,Debit Card,10,Oct,Thursday,41,2024Q4,Q4
+2024-10-10,Transport,Bus Pass,111.38,Debit Card,10,Oct,Thursday,41,2024Q4,Q4
+2024-10-10,Education,Books,425.89,Credit Card,10,Oct,Thursday,41,2024Q4,Q4
+2024-10-11,Food & Dining,Grocery Store,298.46,Debit Card,10,Oct,Friday,41,2024Q4,Q4
+2024-10-11,Shopping,Flipkart Purchase,1909.74,Credit Card,10,Oct,Friday,41,2024Q4,Q4
+2024-10-12,Shopping,Accessories,1257.52,Net Banking,10,Oct,Saturday,41,2024Q4,Q4
+2024-10-12,Entertainment,Spotify,617.51,UPI,10,Oct,Saturday,41,2024Q4,Q4
+2024-10-13,Shopping,Accessories,1751.92,UPI,10,Oct,Sunday,41,2024Q4,Q4
+2024-10-13,Entertainment,Netflix Subscription,685.93,UPI,10,Oct,Sunday,41,2024Q4,Q4
+2024-10-13,Entertainment,Spotify,706.47,UPI,10,Oct,Sunday,41,2024Q4,Q4
+2024-10-14,Food & Dining,Restaurant Bill,476.84,Cash,10,Oct,Monday,42,2024Q4,Q4
+2024-10-14,Shopping,Accessories,2197.33,Credit Card,10,Oct,Monday,42,2024Q4,Q4
+2024-10-14,Health,Medicine Purchase,1086.71,Credit Card,10,Oct,Monday,42,2024Q4,Q4
+2024-10-15,Shopping,Clothes,410.83,Cash,10,Oct,Tuesday,42,2024Q4,Q4
+2024-10-15,Transport,Metro Card,152.12,UPI,10,Oct,Tuesday,42,2024Q4,Q4
+2024-10-16,Utilities,Internet Bill,329.12,UPI,10,Oct,Wednesday,42,2024Q4,Q4
+2024-10-16,Transport,Auto Rickshaw,339.2,UPI,10,Oct,Wednesday,42,2024Q4,Q4
+2024-10-16,Shopping,Clothes,2091.19,Credit Card,10,Oct,Wednesday,42,2024Q4,Q4
+2024-10-17,Utilities,DTH Recharge,370.78,Credit Card,10,Oct,Thursday,42,2024Q4,Q4
+2024-10-18,Rent & Housing,Water Bill,954.7,UPI,10,Oct,Friday,42,2024Q4,Q4
+2024-10-19,Transport,Ola Cab,107.41,UPI,10,Oct,Saturday,42,2024Q4,Q4
+2024-10-20,Health,Medicine Purchase,412.91,UPI,10,Oct,Sunday,42,2024Q4,Q4
+2024-10-21,Entertainment,Concert Ticket,732.03,Debit Card,10,Oct,Monday,43,2024Q4,Q4
+2024-10-21,Shopping,Amazon Order,2474.22,Credit Card,10,Oct,Monday,43,2024Q4,Q4
+2024-10-22,Health,Lab Test,118.83,Credit Card,10,Oct,Tuesday,43,2024Q4,Q4
+2024-10-23,Education,Coaching Class,1056.47,UPI,10,Oct,Wednesday,43,2024Q4,Q4
+2024-10-23,Food & Dining,Tea & Snacks,139.77,UPI,10,Oct,Wednesday,43,2024Q4,Q4
+2024-10-24,Food & Dining,Restaurant Bill,511.23,Debit Card,10,Oct,Thursday,43,2024Q4,Q4
+2024-10-25,Food & Dining,Tea & Snacks,553.55,Cash,10,Oct,Friday,43,2024Q4,Q4
+2024-10-26,Entertainment,Movie Ticket,215.38,UPI,10,Oct,Saturday,43,2024Q4,Q4
+2024-10-26,Utilities,Internet Bill,387.68,Credit Card,10,Oct,Saturday,43,2024Q4,Q4
+2024-10-26,Food & Dining,Tea & Snacks,134.2,UPI,10,Oct,Saturday,43,2024Q4,Q4
+2024-10-27,Utilities,Gas Bill,574.28,Credit Card,10,Oct,Sunday,43,2024Q4,Q4
+2024-10-28,Utilities,Gas Bill,409.73,UPI,10,Oct,Monday,44,2024Q4,Q4
+2024-10-28,Food & Dining,Zomato Order,100.68,Credit Card,10,Oct,Monday,44,2024Q4,Q4
+2024-10-28,Education,Coaching Class,559.86,Net Banking,10,Oct,Monday,44,2024Q4,Q4
+2024-10-29,Transport,Petrol Fill,92.75,Credit Card,10,Oct,Tuesday,44,2024Q4,Q4
+2024-10-30,Transport,Ola Cab,195.3,UPI,10,Oct,Wednesday,44,2024Q4,Q4
+2024-10-31,Food & Dining,Restaurant Bill,518.84,UPI,10,Oct,Thursday,44,2024Q4,Q4
+2024-10-31,Transport,Bus Pass,213.06,Cash,10,Oct,Thursday,44,2024Q4,Q4
+2024-11-01,Food & Dining,Zomato Order,286.45,UPI,11,Nov,Friday,44,2024Q4,Q4
+2024-11-01,Entertainment,Gaming,341.66,Cash,11,Nov,Friday,44,2024Q4,Q4
+2024-11-01,Education,Online Course Fee,1078.05,UPI,11,Nov,Friday,44,2024Q4,Q4
+2024-11-02,Food & Dining,Grocery Store,285.18,Cash,11,Nov,Saturday,44,2024Q4,Q4
+2024-11-02,Transport,Bus Pass,258.49,Credit Card,11,Nov,Saturday,44,2024Q4,Q4
+2024-11-02,Rent & Housing,Monthly Rent,1465.02,Net Banking,11,Nov,Saturday,44,2024Q4,Q4
+2024-11-03,Food & Dining,Restaurant Bill,81.09,Credit Card,11,Nov,Sunday,44,2024Q4,Q4
+2024-11-04,Food & Dining,Tea & Snacks,437.03,UPI,11,Nov,Monday,45,2024Q4,Q4
+2024-11-04,Transport,Metro Card,148.1,UPI,11,Nov,Monday,45,2024Q4,Q4
+2024-11-04,Transport,Metro Card,318.1,Cash,11,Nov,Monday,45,2024Q4,Q4
+2024-11-05,Rent & Housing,Water Bill,884.08,Credit Card,11,Nov,Tuesday,45,2024Q4,Q4
+2024-11-05,Entertainment,Concert Ticket,515.56,UPI,11,Nov,Tuesday,45,2024Q4,Q4
+2024-11-05,Entertainment,Netflix Subscription,528.8,Debit Card,11,Nov,Tuesday,45,2024Q4,Q4
+2024-11-06,Food & Dining,Swiggy,355.6,Debit Card,11,Nov,Wednesday,45,2024Q4,Q4
+2024-11-06,Utilities,Internet Bill,86.09,Cash,11,Nov,Wednesday,45,2024Q4,Q4
+2024-11-07,Transport,Bus Pass,157.8,Debit Card,11,Nov,Thursday,45,2024Q4,Q4
+2024-11-07,Health,Gym Membership,464.35,Credit Card,11,Nov,Thursday,45,2024Q4,Q4
+2024-11-07,Entertainment,Spotify,371.17,Debit Card,11,Nov,Thursday,45,2024Q4,Q4
+2024-11-08,Food & Dining,Zomato Order,239.28,Credit Card,11,Nov,Friday,45,2024Q4,Q4
+2024-11-08,Transport,Auto Rickshaw,152.96,Cash,11,Nov,Friday,45,2024Q4,Q4
+2024-11-08,Entertainment,Netflix Subscription,401.69,UPI,11,Nov,Friday,45,2024Q4,Q4
+2024-11-09,Rent & Housing,Electricity Bill,1440.61,Credit Card,11,Nov,Saturday,45,2024Q4,Q4
+2024-11-09,Rent & Housing,Maintenance Charges,414.69,Credit Card,11,Nov,Saturday,45,2024Q4,Q4
+2024-11-10,Education,Online Course Fee,1430.64,UPI,11,Nov,Sunday,45,2024Q4,Q4
+2024-11-11,Entertainment,Spotify,104.7,UPI,11,Nov,Monday,46,2024Q4,Q4
+2024-11-11,Health,Gym Membership,428.56,Credit Card,11,Nov,Monday,46,2024Q4,Q4
+2024-11-12,Transport,Metro Card,215.67,Credit Card,11,Nov,Tuesday,46,2024Q4,Q4
+2024-11-13,Shopping,Electronics,2434.26,UPI,11,Nov,Wednesday,46,2024Q4,Q4
+2024-11-13,Utilities,DTH Recharge,581.29,UPI,11,Nov,Wednesday,46,2024Q4,Q4
+2024-11-13,Food & Dining,Restaurant Bill,281.75,UPI,11,Nov,Wednesday,46,2024Q4,Q4
+2024-11-14,Rent & Housing,Monthly Rent,971.19,UPI,11,Nov,Thursday,46,2024Q4,Q4
+2024-11-14,Education,Online Course Fee,681.52,UPI,11,Nov,Thursday,46,2024Q4,Q4
+2024-11-15,Education,Stationery,1493.32,Cash,11,Nov,Friday,46,2024Q4,Q4
+2024-11-15,Food & Dining,Restaurant Bill,579.79,UPI,11,Nov,Friday,46,2024Q4,Q4
+2024-11-15,Transport,Metro Card,343.63,Cash,11,Nov,Friday,46,2024Q4,Q4
+2024-11-16,Transport,Bus Pass,296.77,Cash,11,Nov,Saturday,46,2024Q4,Q4
+2024-11-17,Health,Medicine Purchase,297.98,UPI,11,Nov,Sunday,46,2024Q4,Q4
+2024-11-17,Rent & Housing,Maintenance Charges,546.57,Debit Card,11,Nov,Sunday,46,2024Q4,Q4
+2024-11-18,Food & Dining,Grocery Store,310.9,Credit Card,11,Nov,Monday,47,2024Q4,Q4
+2024-11-18,Transport,Petrol Fill,280.36,Credit Card,11,Nov,Monday,47,2024Q4,Q4
+2024-11-18,Rent & Housing,Electricity Bill,1181.82,Credit Card,11,Nov,Monday,47,2024Q4,Q4
+2024-11-19,Shopping,Accessories,2153.51,Credit Card,11,Nov,Tuesday,47,2024Q4,Q4
+2024-11-20,Food & Dining,Restaurant Bill,552.92,Credit Card,11,Nov,Wednesday,47,2024Q4,Q4
+2024-11-20,Transport,Metro Card,42.15,Credit Card,11,Nov,Wednesday,47,2024Q4,Q4
+2024-11-21,Food & Dining,Zomato Order,433.99,Cash,11,Nov,Thursday,47,2024Q4,Q4
+2024-11-21,Food & Dining,Zomato Order,573.54,Cash,11,Nov,Thursday,47,2024Q4,Q4
+2024-11-21,Food & Dining,Tea & Snacks,529.04,Credit Card,11,Nov,Thursday,47,2024Q4,Q4
+2024-11-22,Transport,Petrol Fill,95.03,Credit Card,11,Nov,Friday,47,2024Q4,Q4
+2024-11-22,Transport,Petrol Fill,324.0,UPI,11,Nov,Friday,47,2024Q4,Q4
+2024-11-23,Education,Books,792.77,Cash,11,Nov,Saturday,47,2024Q4,Q4
+2024-11-24,Shopping,Accessories,2045.48,Cash,11,Nov,Sunday,47,2024Q4,Q4
+2024-11-24,Utilities,Gas Bill,524.06,Cash,11,Nov,Sunday,47,2024Q4,Q4
+2024-11-24,Health,Lab Test,349.23,UPI,11,Nov,Sunday,47,2024Q4,Q4
+2024-11-25,Transport,Bus Pass,340.89,UPI,11,Nov,Monday,48,2024Q4,Q4
+2024-11-25,Shopping,Flipkart Purchase,1270.58,Credit Card,11,Nov,Monday,48,2024Q4,Q4
+2024-11-25,Shopping,Flipkart Purchase,465.92,UPI,11,Nov,Monday,48,2024Q4,Q4
+2024-11-26,Rent & Housing,Water Bill,500.34,Net Banking,11,Nov,Tuesday,48,2024Q4,Q4
+2024-11-26,Food & Dining,Restaurant Bill,184.34,Net Banking,11,Nov,Tuesday,48,2024Q4,Q4
+2024-11-27,Food & Dining,Restaurant Bill,463.69,Debit Card,11,Nov,Wednesday,48,2024Q4,Q4
+2024-11-27,Shopping,Electronics,163.31,Net Banking,11,Nov,Wednesday,48,2024Q4,Q4
+2024-11-27,Health,Medicine Purchase,938.05,Debit Card,11,Nov,Wednesday,48,2024Q4,Q4
+2024-11-28,Food & Dining,Zomato Order,456.04,UPI,11,Nov,Thursday,48,2024Q4,Q4
+2024-11-28,Shopping,Clothes,969.73,UPI,11,Nov,Thursday,48,2024Q4,Q4
+2024-11-29,Utilities,Internet Bill,83.17,UPI,11,Nov,Friday,48,2024Q4,Q4
+2024-11-30,Rent & Housing,Maintenance Charges,314.57,Debit Card,11,Nov,Saturday,48,2024Q4,Q4
+2024-11-30,Food & Dining,Tea & Snacks,155.5,Credit Card,11,Nov,Saturday,48,2024Q4,Q4
+2024-12-01,Food & Dining,Swiggy,226.12,Debit Card,12,Dec,Sunday,48,2024Q4,Q4
+2024-12-01,Utilities,Internet Bill,218.41,UPI,12,Dec,Sunday,48,2024Q4,Q4
+2024-12-01,Entertainment,Netflix Subscription,484.29,UPI,12,Dec,Sunday,48,2024Q4,Q4
+2024-12-02,Entertainment,Gaming,391.28,Credit Card,12,Dec,Monday,49,2024Q4,Q4
+2024-12-03,Education,Coaching Class,1327.01,Cash,12,Dec,Tuesday,49,2024Q4,Q4
+2024-12-03,Health,Doctor Consultation,160.39,Credit Card,12,Dec,Tuesday,49,2024Q4,Q4
+2024-12-03,Food & Dining,Tea & Snacks,202.02,UPI,12,Dec,Tuesday,49,2024Q4,Q4
+2024-12-04,Transport,Metro Card,75.72,Credit Card,12,Dec,Wednesday,49,2024Q4,Q4
+2024-12-04,Food & Dining,Swiggy,149.59,Credit Card,12,Dec,Wednesday,49,2024Q4,Q4
+2024-12-04,Food & Dining,Tea & Snacks,289.27,UPI,12,Dec,Wednesday,49,2024Q4,Q4
+2024-12-05,Transport,Auto Rickshaw,258.81,Credit Card,12,Dec,Thursday,49,2024Q4,Q4
+2024-12-06,Food & Dining,Swiggy,322.82,UPI,12,Dec,Friday,49,2024Q4,Q4
+2024-12-07,Food & Dining,Tea & Snacks,132.98,UPI,12,Dec,Saturday,49,2024Q4,Q4
+2024-12-08,Entertainment,Movie Ticket,319.34,Credit Card,12,Dec,Sunday,49,2024Q4,Q4
+2024-12-08,Education,Online Course Fee,749.1,UPI,12,Dec,Sunday,49,2024Q4,Q4
+2024-12-08,Utilities,DTH Recharge,126.43,Credit Card,12,Dec,Sunday,49,2024Q4,Q4
+2024-12-09,Entertainment,Spotify,542.9,Credit Card,12,Dec,Monday,50,2024Q4,Q4
+2024-12-09,Food & Dining,Grocery Store,450.78,Credit Card,12,Dec,Monday,50,2024Q4,Q4
+2024-12-10,Food & Dining,Restaurant Bill,574.4,Credit Card,12,Dec,Tuesday,50,2024Q4,Q4
+2024-12-11,Food & Dining,Tea & Snacks,486.55,Credit Card,12,Dec,Wednesday,50,2024Q4,Q4
+2024-12-11,Food & Dining,Grocery Store,339.26,UPI,12,Dec,Wednesday,50,2024Q4,Q4
+2024-12-12,Transport,Auto Rickshaw,233.02,Credit Card,12,Dec,Thursday,50,2024Q4,Q4
+2024-12-13,Food & Dining,Zomato Order,176.73,Credit Card,12,Dec,Friday,50,2024Q4,Q4
+2024-12-14,Shopping,Amazon Order,1694.78,Cash,12,Dec,Saturday,50,2024Q4,Q4
+2024-12-14,Education,Online Course Fee,1235.11,Credit Card,12,Dec,Saturday,50,2024Q4,Q4
+2024-12-14,Food & Dining,Zomato Order,151.03,Credit Card,12,Dec,Saturday,50,2024Q4,Q4
+2024-12-15,Shopping,Accessories,272.67,Credit Card,12,Dec,Sunday,50,2024Q4,Q4
+2024-12-15,Transport,Ola Cab,314.87,UPI,12,Dec,Sunday,50,2024Q4,Q4
+2024-12-16,Shopping,Amazon Order,412.05,Cash,12,Dec,Monday,51,2024Q4,Q4
+2024-12-16,Food & Dining,Grocery Store,437.78,UPI,12,Dec,Monday,51,2024Q4,Q4
+2024-12-16,Education,Books,225.13,UPI,12,Dec,Monday,51,2024Q4,Q4
+2024-12-17,Food & Dining,Restaurant Bill,290.23,Cash,12,Dec,Tuesday,51,2024Q4,Q4
+2024-12-17,Entertainment,Gaming,424.87,Net Banking,12,Dec,Tuesday,51,2024Q4,Q4
+2024-12-18,Shopping,Accessories,1219.06,UPI,12,Dec,Wednesday,51,2024Q4,Q4
+2024-12-18,Food & Dining,Tea & Snacks,587.53,UPI,12,Dec,Wednesday,51,2024Q4,Q4
+2024-12-19,Food & Dining,Zomato Order,142.51,UPI,12,Dec,Thursday,51,2024Q4,Q4
+2024-12-20,Rent & Housing,Water Bill,1084.13,UPI,12,Dec,Friday,51,2024Q4,Q4
+2024-12-21,Entertainment,Concert Ticket,564.11,Cash,12,Dec,Saturday,51,2024Q4,Q4
+2024-12-21,Education,Coaching Class,230.67,Debit Card,12,Dec,Saturday,51,2024Q4,Q4
+2024-12-22,Entertainment,Gaming,378.6,UPI,12,Dec,Sunday,51,2024Q4,Q4
+2024-12-23,Shopping,Electronics,729.52,Cash,12,Dec,Monday,52,2024Q4,Q4
+2024-12-23,Shopping,Accessories,285.93,Net Banking,12,Dec,Monday,52,2024Q4,Q4
+2024-12-23,Utilities,Mobile Recharge,355.98,Credit Card,12,Dec,Monday,52,2024Q4,Q4
+2024-12-24,Utilities,Gas Bill,484.0,UPI,12,Dec,Tuesday,52,2024Q4,Q4
+2024-12-24,Shopping,Flipkart Purchase,2255.78,Debit Card,12,Dec,Tuesday,52,2024Q4,Q4
+2024-12-24,Rent & Housing,Water Bill,379.23,Debit Card,12,Dec,Tuesday,52,2024Q4,Q4
+2024-12-25,Food & Dining,Restaurant Bill,215.15,UPI,12,Dec,Wednesday,52,2024Q4,Q4
+2024-12-25,Education,Stationery,1142.48,Cash,12,Dec,Wednesday,52,2024Q4,Q4
+2024-12-25,Food & Dining,Swiggy,438.85,Net Banking,12,Dec,Wednesday,52,2024Q4,Q4
+2024-12-26,Transport,Ola Cab,336.54,Cash,12,Dec,Thursday,52,2024Q4,Q4
+2024-12-27,Rent & Housing,Electricity Bill,1391.28,UPI,12,Dec,Friday,52,2024Q4,Q4
+2024-12-27,Food & Dining,Swiggy,364.37,UPI,12,Dec,Friday,52,2024Q4,Q4
+2024-12-27,Transport,Petrol Fill,83.04,Cash,12,Dec,Friday,52,2024Q4,Q4
+2024-12-28,Food & Dining,Zomato Order,151.24,Net Banking,12,Dec,Saturday,52,2024Q4,Q4
+2024-12-29,Education,Stationery,1056.85,UPI,12,Dec,Sunday,52,2024Q4,Q4
+2024-12-29,Entertainment,Spotify,796.37,Credit Card,12,Dec,Sunday,52,2024Q4,Q4
+2024-12-30,Transport,Metro Card,113.05,Cash,12,Dec,Monday,1,2024Q4,Q4
+2024-12-30,Entertainment,Movie Ticket,786.82,UPI,12,Dec,Monday,1,2024Q4,Q4
+2024-12-31,Shopping,Electronics,2367.7,Net Banking,12,Dec,Tuesday,1,2024Q4,Q4
+2024-12-31,Transport,Auto Rickshaw,339.46,UPI,12,Dec,Tuesday,1,2024Q4,Q4
+2024-12-31,Education,Books,1133.83,UPI,12,Dec,Tuesday,1,2024Q4,Q4
